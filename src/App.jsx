@@ -1,8 +1,8 @@
-import "./App.css"
+import "./index.css"
 
 function App() {
   return (
-    <div>App</div>
+    <div className="text-xl font-bold">App</div>
   )
 }
 

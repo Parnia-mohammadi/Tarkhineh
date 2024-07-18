@@ -1,8 +1,11 @@
 import "./index.css"
+import Header from "./components/Header/Header"
 
 function App() {
   return (
-    <div className="text-xl font-bold">App</div>
+    <div>
+      <Header />
+    </div>
   )
 }
 
